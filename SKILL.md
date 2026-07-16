@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-school-detail
 description: "Pull detailed school information from LinkedIn. Verify education institutions and analyze academic networks for recruiters and research specialists.\n\nTrigger: LinkedIn school data lookup, educational institution verification, academic‑network research, institutional‑data enrichment, degree validation"
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn School Detail Query
