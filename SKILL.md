@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-school-detail
-description: Official skill for upkuajing (跨境魔方). Query school detail (学校详情) from LinkedIn data. Get detailed school information including name, type, location, and social media URLs.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Pull detailed school information from LinkedIn. Verify education institutions and analyze academic networks for recruiters and research specialists.\n\nTrigger: LinkedIn school data lookup, educational institution verification, academic‑network research, institutional‑data enrichment, degree validation"
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn School Detail Query
@@ -139,5 +139,7 @@ Other UpKuaJing skills you might find useful:
 - global-company-person-search — Search people from the global company database
 - upkuajing-global-company-people-search — Unified company and people search across all sources
 - upkuajing-contact-info-validity-check — Check contact info validity
-- upkuajing-email-tool — Email verification and sending tool
+- phone-validity-check — Check phone number validity
+- email-validity-check — Check email address validity
+- domain-validity-check — Check domain validity and security- upkuajing-email-tool — Email verification and sending tool
 - upkuajing-sms-tool — SMS tool
